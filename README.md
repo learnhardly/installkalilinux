@@ -3,7 +3,7 @@
 <div>kali linux操作系统官网下载地址 https://www.kali.org/downloads/</div>
 <br><br><br>
 <div>
-<a href='   tencent://Message/?Uin=3475840026&amp;websiteName=q-zone.qq.com&amp;Menu=yes'>外网kali linuxVPS服务器</a> 
+<a href='tencent://Message/?Uin=3475840026&amp;websiteName=q-zone.qq.com&amp;Menu=yes'>外网kali linuxVPS服务器</a> 
 </div>
 <br><br><br>
 <div>
